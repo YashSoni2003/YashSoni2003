@@ -5,7 +5,7 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/t3mpt-huh/count.svg" />
+  <img src="https://profile-counter.glitch.me/yashsoni2003/count.svg" />
 </p>
 
 
