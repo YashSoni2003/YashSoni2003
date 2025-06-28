@@ -7,8 +7,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/yashsoni2003/count.svg" />
 </p>
-
-
-
-
-</p>
