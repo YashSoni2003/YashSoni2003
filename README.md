@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Soni</h1>
-<h3 align="center">A passionate Full Stack Developer & ML enthusiast from Jaipur, India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer & ML enthusiast from Mumbai, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Final+year+B.Tech+student;Full+Stack+%F0%9F%9A%80;Machine+Learning+%F0%9F%A4%96;Open+Source+Contributor" alt="Typing SVG" />
