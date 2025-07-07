@@ -10,11 +10,11 @@
 ### 🧑‍💻 About Me
 
 - 💼 Final year B.Tech student
-- ⚙️ Currently building: **ThinkBoard** (note-taking full-stack app)
+- ⚙️ Currently building: **Various AI/ML Models and Full Stack Projects** (note-taking full-stack app)
 - 🌱 Learning: **TypeScript**, **Docker**, and **CI/CD**
 - 💬 Ask me about **React**, **Express**, **MongoDB**, **PostgreSQL**
 - 📫 Reach me at: [yashkala2003@gmail.com]
-- 🌐 Portfolio: [your-portfolio-link.com]
+- 🌐 Portfolio: [https://epsilon.ccbp.tech/]
 
 ---
 
@@ -63,7 +63,7 @@
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-soni-183851223/))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white)](https://epsilon.ccbp.tech/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:yashkala2003@gmail.com)
 
 ---
