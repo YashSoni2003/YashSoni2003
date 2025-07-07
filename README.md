@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 💼 Final year B.Tech student
-- ⚙️ Currently building: **Various AI/ML Models and Full Stack Projects** (note-taking full-stack app)
+- ⚙️ Currently building: **Various AI/ML Models and Full Stack Projects**
 - 🌱 Learning: **TypeScript**, **Docker**, and **CI/CD**
 - 💬 Ask me about **React**, **Express**, **MongoDB**, **PostgreSQL**
 - 📫 Reach me at: [yashkala2003@gmail.com]
